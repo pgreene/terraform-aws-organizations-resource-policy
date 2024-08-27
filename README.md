@@ -1,0 +1,3 @@
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/organizations_resource_policy
+
+Provides a resource to manage a resource-based delegation policy that can be used to delegate policy management for AWS Organizations to specified member accounts to perform policy actions that are by default available only to the management account. See the [AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_delegate_policies.html) User Guide for more information.
